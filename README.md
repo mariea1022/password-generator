@@ -18,7 +18,7 @@ N/A
 
 [Here is the link to the password generator application.](https://mariea1022.github.io/password-generator/)
 
-Once in the application, to generate a random password, click the button to generate a password. You will then be presented with a series of prompts.
+Once in the application, to generate a random password, click the "Generate Password" button. You will then be presented with a series of prompts.
 When prompted for password criteria, then select which criteria to include in the password.
 
 Below is the image of the password generator application.
