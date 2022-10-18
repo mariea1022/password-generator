@@ -2,7 +2,7 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
-let specialCharArray = ["!",'"',"#","$","%","&","'","()","*","+",",","-",".","/",":",";","<","=",">","?","@","["];
+let specialCharArray = ["!",'"',"#","$","%","&","'","(",")","*","+",",","-",".","/",":",";","<","=",">","?","@","[","\\","]","^","_","`","{","|","}","~"];
 // 	var specialChar = !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 let lowercaseArray = "abcdefghijklmnopqrstuvwxyz".split("");
 let upperCaseArray = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
